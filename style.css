@@ -1,0 +1,17 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
+
+.title.main {
+    color: blueviolet;
+}
+
+.title {
+    font-size: 40px;
+    color: blue;
+}
